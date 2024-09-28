@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanusree Saha</h1>
+<h1 align="center">Hi 👋, I'm Tanusree Saha🌸</h1>
 <h3 align="center">A passionate AI/ML enthusiast focused on deep learning, generative AI, and frontend development from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanusreesaha&label=Profile%20views&color=0e75b6&style=flat" alt="imtanusreesaha" /> </p>
