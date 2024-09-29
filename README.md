@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/4c/de/db/4cdedb6e453e7e5a7fec5748315ff3ca.gif" alt="MasterHead" style="width: 500%; height: auto;" />
+<img src="https://i.pinimg.com/originals/4c/de/db/4cdedb6e453e7e5a7fec5748315ff3ca.gif" alt="MasterHead" style="width:500%; height: auto;" />
 <h1 align="center">Hi 👋, I'm Tanusree Saha 🌸</h1>
 <h3 align="center">A passionate AI/ML enthusiast focused on deep learning, generative AI, and frontend development from India</h3>
 
