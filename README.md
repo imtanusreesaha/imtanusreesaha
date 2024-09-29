@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanusree Saha 🌸</h1>
 <h3 align="center">A passionate AI/ML enthusiast focused on deep learning, generative AI, and frontend development from India</h3>
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnl8RwpXpIgdRb-Dsel5IQa0RskgjhO5_x0njH-Fbi3K0h9_gFc2fr65-R8FV2uvzk_Q&usqp=CAU" alt="SpongeBob Technology" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanusreesaha&label=Profile%20views&color=0e75b6&style=flat" alt="imtanusreesaha" /> </p>
