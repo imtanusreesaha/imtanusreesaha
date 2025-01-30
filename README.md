@@ -10,11 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/geekcoder29" target="blank"><img src="https://img.shields.io/twitter/follow/geekcoder29?logo=twitter&style=for-the-badge" alt="geekcoder29" /></a> </p>
 
-- 🔭 I’m currently working on **SOLAR SENSE**
+- 🔭 I’m currently working on **MYSELF AND ON EXPANDING MY SKILLSETS**
 
-- 🌱 I’m currently learning **Flask,Kotlin**
-
-- 🤝 I’m looking for help with **Data Analysis for Image Processing**
+- 🌱 I’m currently learning **everything from scratch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imtanusreesaha](https://github.com/imtanusreesaha)
 
