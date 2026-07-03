@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/b919e79b421fa0a1ab793d4d49437e03/718636e2473efff4-c3/s1280x1920/62462f85e5ecbfbcf840ecb35a88190e71ed73de.gif" alt="MasterHead" style="width:500%; height: auto;" />
+<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/51aaabf2-8d66-45f7-b310-c3522ab6b90c.gif" alt="MasterHead" style="width:500%; height: auto;" />
 <h1 align="center">Hi 👋, I'm Tanusree Saha 🌸</h1>
 <h3 align="center">A passionate AI/ML enthusiast focused on deep learning, generative AI, and frontend development from India</h3>
 
